@@ -9,7 +9,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-LaRINa-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/company/larina-ucar/)
 [![Website](https://img.shields.io/badge/Website-larina--research.github.io-0d5c8a?style=flat-square&logo=githubpages)](https://larina-research.github.io)
-[![Location](https://img.shields.io/badge/Location-Borj--C%C3%A9dria%2C%20Tunisia-green?style=flat-square&logo=googlemaps)](https://maps.google.com/?q=University+Campus+Borj+Cedria+Tunisia)
+[![Location](https://img.shields.io/badge/Location-Borj--C%C3%A9dria%2C%20Tunisia-green?style=flat-square&logo=googlemaps)](https://maps.app.goo.gl/HoSw7Q9GEx1TDX3F7)
 
 ---
 
